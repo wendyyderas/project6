@@ -7,7 +7,6 @@ const usersRouter = new express.Router()
 
 usersRouter.route('/allProducts').get(usersCtrl.allProducts)
 
-
 usersRouter.route('/').post(usersCtrl.create)
 
 usersRouter.post('/authenticate', usersCtrl.authenticate)

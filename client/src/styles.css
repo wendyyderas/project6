@@ -4,7 +4,11 @@
 }
 
 .NavBar {
-	margin-bottom: 20px
+	margin-bottom: 20px;
+	font-family: 'Cardo', serif;
+	text-shadow: -2px 2px 0px pink;
+	font-size: 2em;
+
 }
 .App {
 	text-align: center;
@@ -45,10 +49,10 @@
 	width: 50%;
   }
   
-  .carousel-inner{
+  /* .carousel-active{
 	width:40px;
 	height: 50rem;
-  }
+  } */
   .header{
 	font-family: 'Cardo', serif;
 	letter-spacing: 1px;
@@ -63,13 +67,13 @@
 	text-shadow: -2px 2px 0px #000;
   
   }
-  .contmain{
+  /* .contmain{
 	margin: 0;
 	padding:50px;
 	background: url("https://bit.ly/2ykG8zg")no-repeat center; 
 	background-size: cover;
-  }
-  .cmxform{
+  } */
+  /* .cmxform{
 	width: 85%;
 	max-width: 500px;
 	background:lightpink;
@@ -81,7 +85,7 @@
 	font-family: "Monstserrat", sans-serif;
 	border-radius: 25px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+  } */
   /* h1{
 	margin-top: 0;  
 	font-size:60px;
@@ -91,7 +95,7 @@
 	position: absolute;
 	z-index: 1;
 	  } */
-  .contact-form input{
+  /* .contact-form input{
 		border:none;
 		width:100%;
 	  }
@@ -101,34 +105,17 @@
    font-size: 4em;
 	text-shadow: -2px 2px 0px #000;
   
-  }
+  } */
   
-  .submit{
-	color: #fff;;
-	font-size: 1.2em;
-	text-decoration: none;
-	border-radius: 5px;
-	padding: 15px 40px;
-	background-color: rgb(0, 0, 0);
-	border: 1px solid #fff;
-	transition: .3s;
-	display:block;
-	margin:0 auto;
-  }
-  .submit:hover {
-	background-color: lightpink;
-	border: 1px solid purple;
-	color:black;
+
   
-  }
-  
-  .text-muted{
+  /* .text-muted{
 	font-family: 'Cardo', serif;
 	letter-spacing: 1px;
    font-size: 2em;
 	text-shadow: -2px 2px 0px #000;
   
-  }
+  } */
   .main{
 	margin: 0;
 	padding:150px;
@@ -158,16 +145,11 @@
    font-size: 6em;
 	text-shadow: -2px 2px 0px pink;
   }
-  .navbar-brand{
+  /* .navbar-brand{
 	font-family: 'Cardo', serif;
 	text-shadow: -2px 2px 0px pink;
-  }
-  .icon{
-	padding:25px;
-	color: lightcoral;
-	position: right;
-  
-  }
+  } */
+
   .img-fluid{
 	position: relative;
   }

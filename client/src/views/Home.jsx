@@ -4,7 +4,7 @@ import '../styles.css'
 const Home = (props) => {
 	return (
 		<>
-		<div class="col-md-6">
+		<div>
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
               <ol class="carousel-indicators">
@@ -14,13 +14,13 @@ const Home = (props) => {
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="https://bit.ly/2Yx7pJe"  style={{"width":"100%"}} class="d-block w-100"/>
+                  <img src="https://bit.ly/2Yx7pJe"   class="d-block w-100"/>
                 </div>
                 <div class="carousel-item">
-                  <img src="https://bit.ly/2nS4GO5"  style={{"width":"100%"}} class="d-block w-100" />
+                  <img src="https://bit.ly/2nS4GO5"   class="d-block w-100" />
                 </div>
                 <div class="carousel-item">
-                  <img src="https://bit.ly/2Y7foBK"  style={{"width":"100%"}}class="d-block w-100" />
+                  <img src="https://bit.ly/2Y7foBK"  class="d-block w-100" />
                 </div>
               </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

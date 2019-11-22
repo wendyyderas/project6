@@ -24,6 +24,10 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 ## Author
 - __ https://github.com/wendyyderas
 
+## Herokuapp
+
+https://projectcinco.herokuapp.com/login
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 

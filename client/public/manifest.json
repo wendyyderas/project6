@@ -3,14 +3,14 @@
   "name": "Bakery",
   "icons": [
     {
-      "src": "./icon.ico",
+      "src": "./uglycupcake.png",
       "sizes": "192x192",
       "type": "image/jpg"
     
     },
-    
+
     {
-      "src": "./cupcake.jpeg",
+      "src": "./cake.png",
       "sizes": "512x512",
       "type": "image/jpg"
     

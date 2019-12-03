@@ -21,7 +21,7 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 - Milligram CSS 
 - JSON Web Token authentication flow
 
-### Mobil
+### Download Cake&Bake Mobil
 - Open the link on your mobile device.
 - On Safari, hit the download button on the bottom.
 - Scroll to the right until you see Add to Home Screen and tap on it.

@@ -14,13 +14,13 @@ const Home = (props) => {
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img src="https://bit.ly/2Yx7pJe"   class="d-block w-100"/>
+                  <img alt="carousel image" src="https://bit.ly/2Yx7pJe"   class="d-block w-100"/>
                 </div>
                 <div class="carousel-item">
-                  <img src="https://bit.ly/2nS4GO5"   class="d-block w-100" />
+                  <img alt="carousel image" src="https://bit.ly/2nS4GO5"   class="d-block w-100" />
                 </div>
                 <div class="carousel-item">
-                  <img src="https://bit.ly/2Y7foBK"  class="d-block w-100" />
+                  <img alt="carousel image" src="https://bit.ly/2Y7foBK"  class="d-block w-100" />
                 </div>
               </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -49,7 +49,7 @@ const Home = (props) => {
                   <button type="button" class="btn btn-who"><a href="product">Our Pastries</a></button>
                 </div>
                   <div class="col-md-6">
-                    <img class="img-fluid" src="https://bit.ly/2Y6rz1w"/>
+                    <img alt="hero image" class="img-fluid" src="https://bit.ly/2Y6rz1w"/>
                     {/* <Link id="testimony" to="/testimony">Thoughts about us!</Link> */}
                   </div>
               </div>  

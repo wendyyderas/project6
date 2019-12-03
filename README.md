@@ -26,7 +26,7 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 
 ## Herokuapp
 
-https://projectcinco.herokuapp.com/login
+https://projectseis.herokuapp.com/rth
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details

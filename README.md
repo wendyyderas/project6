@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project is an e-commerce website centered around a Bakery. It contains three pages routed together through react. The home page has slider images. The product page contains products, pulled from a MongoDB database. A secure admin page has been added that allows access to the products. React and MongoDB is linked together through Express.
+This project is an e-commerce website centered around a Bakery. It contains three pages routed together through react. The home page has slider images. The product page contains products, pulled from a MongoDB database. A secure admin page has been added that allows access to the products. React and MongoDB is linked together through Express.The website has been modified to become a progressive web app that can be now be downloaded onto mobile devices.
 
 ### Installation 
 

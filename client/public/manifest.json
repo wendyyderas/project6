@@ -18,6 +18,7 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "theme-color": "pink"
+  "theme_color": "pink",
+  "background_color": "black"
 }
 

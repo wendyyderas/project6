@@ -1,6 +1,8 @@
 import React from 'react'
 import vipImage from '../vip.png'
 
+import './rth.css';
+
 export default class RTH extends React.Component {
 	constructor(props){
 		super(props);
@@ -111,7 +113,7 @@ export default class RTH extends React.Component {
 							<div class="row">
 							{this.state.allProducts.map((products,index) =>(
 								<div class="col-md-4">
-									<div class="card mb-4 shadow-sm">
+									<div class="lol card mb-4 shadow-sm">
 										<img src={products.UrlImg} height="275" width="100%" alt={products.Description}/>
 										<div class="card-body">
 											<p class="card-text">{products.Description}</p>

@@ -2,6 +2,8 @@ import React from 'react'
 import { Switch, Route, Redirect } from 'react-router-dom'
 import httpClient from './httpClient'
 
+import './styles.css'
+
 import NavBar from './NavBar'
 import LogIn from './views/LogIn'
 import LogOut from './views/LogOut'

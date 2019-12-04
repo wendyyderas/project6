@@ -30,7 +30,9 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 
 
 ![](screenshots/before.png) 
-![](screenshots/mobile.png) 
+![](screenshots/after.png) 
+![](screenshots/mobile.PNG) 
+
 
 
 ## Author

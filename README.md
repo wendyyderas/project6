@@ -1,4 +1,4 @@
-# React Application with JWT Authentication
+# Mobile Application with JWT Authentication
 
 ### Overview
 

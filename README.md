@@ -29,6 +29,7 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 
 
 ![](screenshots/before.png) 
+![](screenshots/after.png) 
 
 ## Author
 - __ https://github.com/wendyyderas

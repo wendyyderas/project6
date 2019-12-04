@@ -28,7 +28,7 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 - Cake should now be available on your phone.
 
 
-![](pwa screenshots/Screen Shot 2019-11-25 at 2.29.19 PM.png) 
+![](screenshots/before.png) 
 
 ## Author
 - __ https://github.com/wendyyderas

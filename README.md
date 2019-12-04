@@ -31,7 +31,8 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 
 ![](screenshots/before.png) 
 ![](screenshots/after.png) 
-![](screenshots/mobile.PNG)  <img src="screenshots/mobile.png" height= 800px width = 400px >
+![](screenshots/mobile.PNG) 
+ <img src="screenshots/mobile.PNG" height= 800px width = 400px />
 
 
 

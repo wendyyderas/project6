@@ -27,6 +27,9 @@ This project is an e-commerce website centered around a Bakery. It contains thre
 - Scroll to the right until you see Add to Home Screen and tap on it.
 - Cake should now be available on your phone.
 
+
+![](pwa screenshots/Screen Shot 2019-11-25 at 2.29.19 PM.png) 
+
 ## Author
 - __ https://github.com/wendyyderas
 
